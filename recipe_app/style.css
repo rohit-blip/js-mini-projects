@@ -41,6 +41,7 @@ header input {
     border: none;
     border-radius: 3px;
     padding: 0.5rem 1rem;
+    font-family: inherit;
 }
 
 header button{
@@ -52,9 +53,9 @@ header button{
 }
 
 .fav-container {
-    padding: 1rem;
+    padding: 0.25rem 1rem;
     text-align: center;
-    background-color: rgb(226, 226, 226);
+    background-color: rgb(252, 222, 243);
 }
 
 .fav-meals {
